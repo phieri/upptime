@@ -3,6 +3,8 @@ owner: phieri # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
+  - name: ssa.se
+    url: https://www.ssa.se
   - name: Webbsite
     url: https://www.philiperiksson.se
   - name: Blogg
