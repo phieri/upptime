@@ -39,12 +39,12 @@ status-website:
 
 i18n:
   locale: sv-SE
-  averageResponseTime: "Genomsnittlig svarstid: $TIME&nbsp;ms"
+  averageResponseTime: "Genomsnittlig svarstid: $TIME ms"
   up: Uppe
   down: Nere
   overallUptimeTitle: Total upptid
-  duration1Y: 1å
+  duration1Y: "1å"
   durationAll: allt
-  durationMin: $DURATION&nbsp;minuter
-  responseTimeMs: Svarstid (ms)
-  footer: Denna sida har [öppen källkod]($REPO), drivs av [Upptime](https://upptime.js.org)
+  durationMin: "$DURATION&nbsp;minuter"
+  responseTimeMs: "Svarstid (ms)"
+  footer: "Denna sida har [öppen källkod]($REPO), drivs med [Upptime](https://upptime.js.org)"
