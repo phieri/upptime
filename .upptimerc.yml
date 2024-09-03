@@ -5,10 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Webbplats
     url: https://www.ssa.se
+    method: HEAD
   - name: Certifikatprov
     url: https://examen.ssa.se
+    method: HEAD
   - name: Utbildning
     url: https://kurs.ssa.se
+    method: HEAD
+  - name: Kansli
+    url: https://kansli.ssa.se
+    method: HEAD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: ""
-  introMessage: "This is a status page which uses **real-time** data from our GitHub."
+  introMessage: "This is a status page which uses **real-time** data via GitHub."
   navbar:
     - title: Status
       href: /
