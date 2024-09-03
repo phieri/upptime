@@ -25,9 +25,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime SSA
+  name: Upptid SSA
   introTitle: ""
-  introMessage: "This is a status page which uses **real-time** data via GitHub."
+  introMessage: "Detta är en statussida som visar realtidsdata via GitHub."
   navbar:
     - title: Status
       href: /
@@ -40,7 +40,11 @@ status-website:
 i18n:
   locale: sv-SE
   averageResponseTime: "Genomsnittlig svarstid: $TIME&nbsp;ms"
+  up: Uppe
+  down: Nere
+  overallUptimeTitle: Total upptid
   duration1Y: 1å
   durationAll: allt
   durationMin: $DURATION&nbsp;minuter
   responseTimeMs: Svarstid (ms)
+  footer: Denna sida har [öppen källkod]($REPO), drivs av [Upptime](https://upptime.js.org)
