@@ -3,11 +3,11 @@ owner: phieri # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: SSA webbplats
+  - name: Webbplats
     url: https://www.ssa.se
   - name: Certifikatprov
     url: https://examen.ssa.se
-  - name: Kurswebb
+  - name: Utbildning
     url: https://kurs.ssa.se
 
 status-website:
@@ -26,7 +26,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   metaTags:
     - name: "color-scheme"
-      content: "dark light"  
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      content: "dark light"
+i18n:
+  locale: sv-SE
+  duration1Y: 1å
+  responseTimeMs: Svarstid (ms)
