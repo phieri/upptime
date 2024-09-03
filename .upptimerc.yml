@@ -15,6 +15,9 @@ sites:
   - name: Kansli
     url: https://kansli.ssa.se
     method: HEAD
+  - name: Hamshop
+    url: https://hamshop.ssa.se
+    method: HEAD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -35,5 +38,6 @@ status-website:
       content: "dark light"
 i18n:
   locale: sv-SE
+  averageResponseTime: Genomsnittlig svarstid
   duration1Y: 1å
   responseTimeMs: Svarstid (ms)
