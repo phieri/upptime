@@ -33,6 +33,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: ssa.se
+      href: https://www.ssa.se
   metaTags:
     - name: "color-scheme"
       content: "dark light"
@@ -45,6 +47,6 @@ i18n:
   overallUptimeTitle: Total upptid
   duration1Y: "1å"
   durationAll: allt
-  durationMin: "$DURATION&nbsp;minuter"
+  durationMin: "$DURATION minuter"
   responseTimeMs: "Svarstid (ms)"
-  footer: "Denna sida har [öppen källkod]($REPO), drivs med [Upptime](https://upptime.js.org)"
+  footer: "Denna sida har [öppen källkod]($REPO) och drivs med [Upptime](https://upptime.js.org)."
