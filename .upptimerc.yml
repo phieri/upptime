@@ -51,12 +51,16 @@ status-website:
 
 i18n:
   locale: sv-SE
+  allSystemsOperational: Alla system fungerar
   averageResponseTime: "Genomsnittlig svarstid: $TIME ms"
   up: Uppe
   down: Nere
+  degraded: Försämrad
   overallUptimeTitle: Total upptid
   duration1Y: "1å"
   durationAll: allt
   durationMin: "$DURATION minuter"
+  liveStatus: Live-status
+  scheduledMaintenance: Planerat underhåll
   responseTimeMs: "Svarstid (ms)"
   footer: "Denna sida har [öppen källkod]($REPO) och drivs med [Upptime](https://upptime.js.org)."
