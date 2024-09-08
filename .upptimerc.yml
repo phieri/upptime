@@ -2,6 +2,9 @@
 owner: phieri # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+NOTIFICATION_CUSTOM_WEBHOOK: false
+NOTIFICATION_CUSTOM_WEBHOOK_URL: https://api.pushover.net/1/messages.json
+
 sites:
   - name: Webbplats
     url: https://www.ssa.se
@@ -33,10 +36,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptid SSA
   introTitle: ""
-  introMessage: "Detta är en statussida som visar realtidsdata via GitHub."
+  introMessage: "Detta är en statussida som visar realtidsdata för SSA:s webbplattformar."
   navbar:
     - title: Status
-      href: /
+      href: /$repo
     - title: ssa.se
       href: https://www.ssa.se
   metaTags:
