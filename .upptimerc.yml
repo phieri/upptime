@@ -12,6 +12,12 @@ sites:
   - name: Utbildning
     url: https://kurs.ssa.se
     method: HEAD
+  - name: Forum
+    url: https://forum.ssa.se
+    method: HEAD
+  - name: Contest
+    url: https://contest.ssa.se
+    method: HEAD
   - name: Kansli
     url: https://kansli.ssa.se
     method: HEAD
@@ -31,8 +37,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: ssa.se
       href: https://www.ssa.se
   metaTags:
