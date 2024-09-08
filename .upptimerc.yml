@@ -21,6 +21,9 @@ sites:
   - name: Contest
     url: https://contest.ssa.se
     method: HEAD
+  - name: SAC
+    url: https://www.sactest.net
+    method: HEAD
   - name: Kansli
     url: https://kansli.ssa.se
     method: HEAD
@@ -39,7 +42,7 @@ status-website:
   introMessage: "Detta är en statussida som visar realtidsdata för SSA:s webbplattformar."
   navbar:
     - title: Status
-      href: /$repo
+      href: "/$repo"
     - title: ssa.se
       href: https://www.ssa.se
   metaTags:
