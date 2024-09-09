@@ -34,7 +34,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ssa.se
+  # cname: status.ssa.se
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptid SSA
@@ -49,8 +49,9 @@ status-website:
     - name: "color-scheme"
       content: "dark light"
 
+# List of available strings at https://github.com/upptime/status-page/blob/master/i18n.yml
 i18n:
-  locale: sv-SE
+  activeIncidents: Pågående incidenter
   allSystemsOperational: Alla system fungerar
   averageResponseTime: "Genomsnittlig svarstid: $TIME ms"
   up: Uppe
@@ -70,6 +71,8 @@ i18n:
   startsAt: Startar klockan
   duration: Längd
   liveStatus: Live-status
+  errorHome: Gå till startsidan
   scheduledMaintenance: Planerat underhåll
   responseTimeMs: "Svarstid (ms)"
   footer: "Denna sida har [öppen källkod]($REPO) och drivs med [Upptime](https://upptime.js.org)."
+  locale: sv-SE
