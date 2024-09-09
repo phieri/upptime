@@ -42,7 +42,7 @@ status-website:
   introMessage: "Detta är en statussida som visar realtidsdata för SSA:s webbplattformar."
   navbar:
     - title: Status
-      href: "/$repo"
+      href: /
     - title: ssa.se
       href: https://www.ssa.se
   metaTags:
@@ -55,11 +55,20 @@ i18n:
   averageResponseTime: "Genomsnittlig svarstid: $TIME ms"
   up: Uppe
   down: Nere
-  degraded: Försämrad
+  degraded: "Försämrad"
+  incidentFixed: Fixat
+  incidentOngoing: Pågående
+  incidentOpenedAt: Öppnades klockan
+  incidentClosedAt: Stängdes klockan
   overallUptimeTitle: Total upptid
+  overallUptime: "Total upptid: $UPTIME"
   duration1Y: "1å"
   durationAll: allt
   durationMin: "$DURATION minuter"
+  errorTitle: "Ett fel inträffade"
+  startedAt: Startade klockan
+  startsAt: Startar klockan
+  duration: Längd
   liveStatus: Live-status
   scheduledMaintenance: Planerat underhåll
   responseTimeMs: "Svarstid (ms)"
