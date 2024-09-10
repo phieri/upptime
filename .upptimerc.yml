@@ -60,7 +60,8 @@ i18n:
   incidentOngoing: Pågående
   incidentOpenedAt: Öppnades klockan
   incidentClosedAt: Stängdes klockan
-  liveStatus: Live-status  overallUptimeTitle: Total upptid
+  liveStatus: Live-status
+  overallUptimeTitle: Total upptid
   overallUptime: "Total upptid: $UPTIME"
   errorTitle: Ett fel inträffade
   startedAt: Startade klockan
