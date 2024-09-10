@@ -53,26 +53,27 @@ status-website:
 i18n:
   activeIncidents: Pågående incidenter
   allSystemsOperational: Alla system fungerar
+  incidentReport: "Incidentrapport nr $NUMBER →"
+  activeIncidentSummary: Öppnades $DATE med $POSTS inlägg
   averageResponseTime: "Genomsnittlig svarstid: $TIME ms"
-  up: Uppe
-  down: Nere
-  degraded: "Försämrad"
-  incidentFixed: Fixat
+  incidentFixed: Åtgärdad
   incidentOngoing: Pågående
   incidentOpenedAt: Öppnades klockan
   incidentClosedAt: Stängdes klockan
-  overallUptimeTitle: Total upptid
+  liveStatus: Live-status  overallUptimeTitle: Total upptid
   overallUptime: "Total upptid: $UPTIME"
-  duration1Y: "1å"
-  durationAll: allt
-  durationMin: "$DURATION minuter"
-  errorTitle: "Ett fel inträffade"
+  errorTitle: Ett fel inträffade
   startedAt: Startade klockan
   startsAt: Startar klockan
   duration: Längd
-  liveStatus: Live-status
+  durationMin: $DURATION minuter
   errorHome: Gå till startsidan
   scheduledMaintenance: Planerat underhåll
-  responseTimeMs: "Svarstid (ms)"
+  responseTimeMs: Svarstid (ms)
+  up: Uppe
+  down: Nere
+  degraded: Försämrad
   footer: "Denna sida har [öppen källkod]($REPO) och drivs med [Upptime](https://upptime.js.org)."
+  duration1Y: "1å"
+  durationAll: allt
   locale: sv-SE
