@@ -31,8 +31,6 @@ sites:
   - name: Hamshop
     url: https://hamshop.ssa.se
     method: HEAD
-  - name: Sunet
-    url: https://sunet.se/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -77,6 +75,7 @@ i18n:
   up: Uppe
   down: Nere
   degraded: Försämrad
+  loading: Laddar
   footer: "Denna sida har [öppen källkod]($REPO) och drivs med [Upptime](https://upptime.js.org)."
   duration1Y: "1å"
   durationAll: allt
