@@ -2,9 +2,6 @@ owner: phieri # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 user-agent: phieri
 
-# NOTIFICATION_CUSTOM_WEBHOOK: false
-# NOTIFICATION_CUSTOM_WEBHOOK_URL: https://api.pushover.net/1/messages.json
-
 sites:
   - name: Webbplats
     url: https://www.ssa.se
@@ -36,10 +33,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.ssa.se
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.ssa.se/wp-content/themes/finewp-ssa/img/ssa-logga.png
   name: Driftstatus SSA
   introTitle: ""
-  introMessage: "Detta är en statussida som visar realtidsdata för SSA:s webbplattformar."
+  introMessage: "Här visas tillgänglighetsdata för SSA:s webbplattformar."
   navbar:
     - title: Status
       href: /
@@ -48,6 +45,8 @@ status-website:
   metaTags:
     - name: "color-scheme"
       content: "dark light"
+    - name: "format-detection"
+      content: "telephone=no"
 
 # List of available strings at https://github.com/upptime/status-page/blob/master/i18n.yml
 i18n:
