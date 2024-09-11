@@ -37,7 +37,7 @@ status-website:
   # cname: status.ssa.se
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptid
+  name: Driftstatus SSA
   introTitle: ""
   introMessage: "Detta är en statussida som visar realtidsdata för SSA:s webbplattformar."
   navbar:
@@ -54,7 +54,7 @@ i18n:
   activeIncidents: Pågående incidenter
   allSystemsOperational: Alla system fungerar
   incidentReport: "Incidentrapport nr $NUMBER →"
-  activeIncidentSummary: Öppnades $DATE med $POSTS inlägg
+  activeIncidentSummary: Öppnades $DATE och har $POSTS inlägg
   averageResponseTime: "Genomsnittlig svarstid: $TIME ms"
   incidentFixed: Åtgärdad
   incidentOngoing: Pågående
@@ -62,7 +62,7 @@ i18n:
   incidentClosedAt: Stängdes klockan
   incidentViewOnGitHub: Visa och följ på GitHub
   liveStatus: Live-status
-  overallUptimeTitle: Total upptid
+  overallUptimeTitle: Total tillgänglighet
   overallUptime: "Total upptid: $UPTIME"
   errorTitle: Ett fel inträffade
   startedAt: Startade klockan
