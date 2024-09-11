@@ -1,6 +1,7 @@
 # Change these first
 owner: phieri # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: phieri
 
 NOTIFICATION_CUSTOM_WEBHOOK: false
 NOTIFICATION_CUSTOM_WEBHOOK_URL: https://api.pushover.net/1/messages.json
@@ -30,6 +31,8 @@ sites:
   - name: Hamshop
     url: https://hamshop.ssa.se
     method: HEAD
+  - name: SUNET
+    url: https://sunet.se/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -37,7 +40,7 @@ status-website:
   # cname: status.ssa.se
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptid SSA
+  name: Upptid
   introTitle: ""
   introMessage: "Detta är en statussida som visar realtidsdata för SSA:s webbplattformar."
   navbar:
