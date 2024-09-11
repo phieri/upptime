@@ -31,7 +31,7 @@ sites:
   - name: Hamshop
     url: https://hamshop.ssa.se
     method: HEAD
-  - name: SUNET
+  - name: Sunet
     url: https://sunet.se/ping
 
 status-website:
