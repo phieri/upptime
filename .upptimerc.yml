@@ -1,10 +1,9 @@
-# Change these first
 owner: phieri # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 user-agent: phieri
 
-NOTIFICATION_CUSTOM_WEBHOOK: false
-NOTIFICATION_CUSTOM_WEBHOOK_URL: https://api.pushover.net/1/messages.json
+# NOTIFICATION_CUSTOM_WEBHOOK: false
+# NOTIFICATION_CUSTOM_WEBHOOK_URL: https://api.pushover.net/1/messages.json
 
 sites:
   - name: Webbplats
@@ -61,6 +60,7 @@ i18n:
   incidentOngoing: Pågående
   incidentOpenedAt: Öppnades klockan
   incidentClosedAt: Stängdes klockan
+  incidentViewOnGitHub: Visa och följ på GitHub
   liveStatus: Live-status
   overallUptimeTitle: Total upptid
   overallUptime: "Total upptid: $UPTIME"
