@@ -52,12 +52,20 @@ status-website:
       content: "telephone=no"
 
 # List of available strings at https://github.com/upptime/status-page/blob/master/i18n.yml
+#       and at https://github.com/orgs/upptime/discussions/161#discussioncomment-256389
 i18n:
   activeIncidents: Pågående incidenter
   allSystemsOperational: Alla system fungerar
-  incidentReport: "Incidentrapport nr $NUMBER →"
   activeIncidentSummary: Öppnades $DATE och har $POSTS inlägg
   averageResponseTime: "Genomsnittlig svarstid: $TIME ms"
+  duration: Längd
+  durationMin: $DURATION minuter
+  duration1Y: 1å
+  durationAll: allt
+  errorHome: Gå till startsidan
+  errorTitle: Ett fel inträffade
+  history: Historik
+  incidentReport: "Incidentrapport nr $NUMBER →"
   incidentFixed: Åtgärdad
   incidentOngoing: Pågående
   incidentOpenedAt: Öppnades klockan
@@ -66,19 +74,15 @@ i18n:
   liveStatus: Live-status
   overallUptimeTitle: Total tillgänglighet
   overallUptime: "Total tillgänglighet: $UPTIME"
-  errorTitle: Ett fel inträffade
   startedAt: Startade klockan
   startsAt: Startar klockan
-  duration: Längd
-  durationMin: $DURATION minuter
-  errorHome: Gå till startsidan
   scheduledMaintenance: Planerat underhåll
+  responseTime: Svarstid
   responseTimeMs: Svarstid (ms)
+  uptime: Tillgänglighet
   up: Uppe
   down: Nere
   degraded: Försämrad
   loading: Laddar
   footer: "Denna sida har [öppen källkod]($REPO) och drivs med [Upptime](https://upptime.js.org)."
-  duration1Y: "1å"
-  durationAll: allt
   locale: sv-SE
