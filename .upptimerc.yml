@@ -18,6 +18,9 @@ sites:
   - name: Contest
     url: https://contest.ssa.se
     method: HEAD
+  - name: HF Contest Cup
+    url: https://hfcup.ssa.se
+    method: HEAD
   - name: SAC
     url: https://www.sactest.net
     method: HEAD
@@ -62,7 +65,7 @@ i18n:
   incidentViewOnGitHub: Visa och följ på GitHub
   liveStatus: Live-status
   overallUptimeTitle: Total tillgänglighet
-  overallUptime: "Total upptid: $UPTIME"
+  overallUptime: "Total tillgänglighet: $UPTIME"
   errorTitle: Ett fel inträffade
   startedAt: Startade klockan
   startsAt: Startar klockan
