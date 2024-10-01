@@ -37,12 +37,10 @@ status-website:
   # cname: status.ssa.se
   baseUrl: /upptime
   logoUrl: https://www.ssa.se/wp-content/themes/finewp-ssa/img/ssa-logga.png
-  name: Driftstatus SSA
+  name: Driftstatus
   introTitle: ""
   introMessage: "Här visas tillgänglighetsdata för SSA:s webbplattformar."
   navbar:
-    - title: Status
-      href: /
     - title: ssa.se
       href: https://www.ssa.se
   metaTags:
