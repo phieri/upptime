@@ -64,9 +64,11 @@ i18n:
   errorTitle: Ett fel inträffade
   errorText: Du kan försöka igen om en liten stund.
   history: Historik
+  incidentCompleted: Slutförd
   incidentReport: "Incidentrapport nr $NUMBER →"
   incidentFixed: Åtgärdad
   incidentOngoing: Pågående
+  incidentScheduled: Planerad
   incidentOpenedAt: Öppnades klockan
   incidentClosedAt: Stängdes klockan
   incidentViewOnGitHub: Visa och följ på GitHub
