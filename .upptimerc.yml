@@ -62,6 +62,7 @@ i18n:
   durationAll: allt
   errorHome: Gå till startsidan
   errorTitle: Ett fel inträffade
+  errorText: Du kan försöka igen om en liten stund.
   history: Historik
   incidentReport: "Incidentrapport nr $NUMBER →"
   incidentFixed: Åtgärdad
