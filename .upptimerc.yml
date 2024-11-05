@@ -76,6 +76,8 @@ i18n:
   startedAt: Startade klockan
   startsAt: Startar klockan
   scheduledMaintenance: Planerat underhåll
+  scheduledMaintenanceSummaryStarted: Startade $DATE i $DURATION minuter
+  scheduledMaintenanceSummaryStarts: Startar $DATE i $DURATION minuter
   responseTime: Svarstid
   responseTimeMs: Svarstid (ms)
   uptime: Tillgänglighet
