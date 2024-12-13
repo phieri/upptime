@@ -4,100 +4,110 @@
     "url": "https://www.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.se.ico",
     "slug": "webbplats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1119,
     "timeDay": 1072,
     "timeWeek": 1171,
     "timeMonth": 1164,
     "timeYear": 1119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 4
+    }
   },
   {
     "name": "Certifikatprov",
     "url": "https://examen.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/examen.ssa.se.ico",
     "slug": "certifikatprov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1114,
     "timeDay": 834,
     "timeWeek": 1034,
     "timeMonth": 1185,
     "timeYear": 1114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 4
+    }
   },
   {
     "name": "Utbildning",
     "url": "https://kurs.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/kurs.ssa.se.ico",
     "slug": "utbildning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1093,
     "timeDay": 921,
     "timeWeek": 1042,
     "timeMonth": 1076,
     "timeYear": 1093,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 3
+    }
   },
   {
     "name": "Forum",
     "url": "https://forum.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/forum.ssa.se.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1029,
     "timeDay": 1106,
     "timeWeek": 1159,
     "timeMonth": 1079,
     "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 3
+    }
   },
   {
     "name": "Contest",
     "url": "https://contest.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/contest.ssa.se.ico",
     "slug": "contest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 807,
     "timeDay": 597,
     "timeWeek": 784,
     "timeMonth": 804,
     "timeYear": 807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 2
+    }
   },
   {
     "name": "HF Contest Cup",
     "url": "https://hfcup.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/hfcup.ssa.se.ico",
     "slug": "hf-contest-cup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3193,
@@ -105,17 +115,19 @@
     "timeWeek": 3476,
     "timeMonth": 3341,
     "timeYear": 3193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 2
+    }
   },
   {
     "name": "SAC",
     "url": "https://www.sactest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.sactest.net.ico",
     "slug": "sac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1759,
@@ -123,17 +135,19 @@
     "timeWeek": 2489,
     "timeMonth": 2076,
     "timeYear": 1759,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 1
+    }
   },
   {
     "name": "Kansli",
     "url": "https://kansli.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/kansli.ssa.se.ico",
     "slug": "kansli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1031,
@@ -141,16 +155,18 @@
     "timeWeek": 1007,
     "timeMonth": 1056,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 1
+    }
   },
   {
     "name": "Hamshop",
     "url": "https://hamshop.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/hamshop.ssa.se.ico",
     "slug": "hamshop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,6 +175,8 @@
     "timeWeek": 1734,
     "timeMonth": 1747,
     "timeYear": 1573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 0
+    }
   }
 ]
