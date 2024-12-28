@@ -42,18 +42,20 @@
     "url": "https://kurs.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/kurs.ssa.se.ico",
     "slug": "utbildning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1141,
-    "timeWeek": 1122,
-    "timeMonth": 1153,
-    "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "time": 1104,
+    "timeDay": 927,
+    "timeWeek": 1070,
+    "timeMonth": 1139,
+    "timeYear": 1104,
+    "dailyMinutesDown": {
+      "2024-12-28": 0
+    }
   },
   {
     "name": "Forum",
