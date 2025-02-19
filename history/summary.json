@@ -78,10 +78,10 @@
     "url": "https://contest.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/contest.ssa.se.ico",
     "slug": "contest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 826,
@@ -89,7 +89,9 @@
     "timeWeek": 1388,
     "timeMonth": 931,
     "timeYear": 826,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-19": 1
+    }
   },
   {
     "name": "HF Contest Cup",
