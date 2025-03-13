@@ -2,33 +2,45 @@ owner: phieri # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 user-agent: phieri
 
+workflowSchedule:
+  uptime: "*/12 * * * *"
+
 sites:
   - name: Webbplats
     url: https://www.ssa.se
+    maxResponseTime: 5000
     method: HEAD
   - name: Certifikatprov
     url: https://examen.ssa.se
+    maxResponseTime: 5000
     method: HEAD
   - name: Utbildning
     url: https://kurs.ssa.se
+    maxResponseTime: 5000
     method: HEAD
   - name: Forum
     url: https://forum.ssa.se
+    maxResponseTime: 5000
     method: HEAD
   - name: Contest
     url: https://contest.ssa.se
+    maxResponseTime: 5000
     method: HEAD
   - name: HF Contest Cup
     url: https://hfcup.ssa.se
+    maxResponseTime: 10000
     method: HEAD
   - name: SAC
     url: https://www.sactest.net
+    maxResponseTime: 5000
     method: HEAD
   - name: Kansli
     url: https://kansli.ssa.se
+    maxResponseTime: 5000
     method: HEAD
   - name: Hamshop
     url: https://hamshop.ssa.se
+    maxResponseTime: 5000
     method: HEAD
 
 status-website:
@@ -76,6 +88,7 @@ i18n:
   overallUptimeTitle: Total tillgänglighet
   overallUptime: "Total tillgänglighet: $UPTIME"
   pastScheduledMaintenance: Tidigare schemalagt underhåll
+  pastIncidentsResolved: Löst på $MINUTES minuter med $POSTS inlägg
   startedAt: Startade klockan
   startsAt: Startar klockan
   scheduledMaintenance: Planerat underhåll
