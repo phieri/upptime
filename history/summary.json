@@ -6,9 +6,9 @@
     "slug": "webbplats",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1141,
     "timeDay": 1037,
@@ -16,7 +16,6 @@
     "timeMonth": 1177,
     "timeYear": 1141,
     "dailyMinutesDown": {
-      "2025-03-18": 14,
       "2024-12-13": 22
     }
   },
@@ -115,19 +114,19 @@
     "url": "https://www.sactest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.sactest.net.ico",
     "slug": "sac",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1588,
-    "timeDay": 2900,
-    "timeWeek": 1906,
-    "timeMonth": 1800,
-    "timeYear": 1588,
+    "time": 1640,
+    "timeDay": 6133,
+    "timeWeek": 2975,
+    "timeMonth": 2160,
+    "timeYear": 1640,
     "dailyMinutesDown": {
-      "2025-03-18": 13
+      "2025-03-18": 0
     }
   },
   {
