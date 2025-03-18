@@ -44,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurs.ssa.se.ico",
     "slug": "utbildning",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1129,
     "timeDay": 1119,
     "timeWeek": 1144,
     "timeMonth": 1161,
     "timeYear": 1129,
-    "dailyMinutesDown": {
-      "2025-03-18": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
@@ -81,10 +79,10 @@
     "url": "https://contest.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/contest.ssa.se.ico",
     "slug": "contest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 833,
@@ -92,7 +90,9 @@
     "timeWeek": 899,
     "timeMonth": 877,
     "timeYear": 833,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-18": 1
+    }
   },
   {
     "name": "HF Contest Cup",
