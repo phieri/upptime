@@ -79,19 +79,19 @@
     "url": "https://contest.ssa.se",
     "icon": "https://icons.duckduckgo.com/ip3/contest.ssa.se.ico",
     "slug": "contest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 982,
-    "timeWeek": 899,
-    "timeMonth": 877,
-    "timeYear": 833,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 832,
+    "timeDay": 850,
+    "timeWeek": 879,
+    "timeMonth": 872,
+    "timeYear": 832,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
