@@ -1,7 +1,7 @@
 url: https://www.ssa.se
-status: down
-code: 500
-responseTime: 2903
-lastUpdated: 2025-04-16T19:33:16.610Z
+status: up
+code: 200
+responseTime: 1064
+lastUpdated: 2025-04-16T19:46:05.640Z
 startTime: 2024-09-03T08:30:17.985Z
 generator: Upptime <https://github.com/upptime/upptime>
