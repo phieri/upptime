@@ -1,7 +1,7 @@
 url: https://hamshop.ssa.se
-status: up
+status: degraded
 code: 200
-responseTime: 1527
-lastUpdated: 2025-04-16T16:00:00.043Z
+responseTime: 8826
+lastUpdated: 2025-04-16T17:40:49.140Z
 startTime: 2024-09-03T14:14:05.567Z
 generator: Upptime <https://github.com/upptime/upptime>
