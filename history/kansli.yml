@@ -1,7 +1,7 @@
 url: https://kansli.ssa.se
-status: up
-code: 200
-responseTime: 851
-lastUpdated: 2025-04-15T23:19:41.533Z
+status: down
+code: 500
+responseTime: 996
+lastUpdated: 2025-04-16T15:47:28.232Z
 startTime: 2024-09-03T13:25:24.039Z
 generator: Upptime <https://github.com/upptime/upptime>
