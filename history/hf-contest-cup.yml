@@ -1,7 +1,7 @@
 url: https://hfcup.ssa.se
-status: up
+status: degraded
 code: 200
-responseTime: 2974
-lastUpdated: 2025-04-16T23:19:17.618Z
+responseTime: 22930
+lastUpdated: 2025-04-17T10:31:39.760Z
 startTime: 2024-09-12T01:30:36.583Z
 generator: Upptime <https://github.com/upptime/upptime>
